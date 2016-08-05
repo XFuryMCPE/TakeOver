@@ -1,0 +1,12 @@
+name: TakeOver
+author: XFuryMCPE
+description: Take over all control of a player!
+website: http://www.Twitter.com/XFuryMCPE
+version: 1.0.0
+main: TakeOver\MainClass
+api: [1.12.0,2.0.0]
+
+permissions:
+ takeover.cmd:
+  description: Permission for /takeover
+  default: op
